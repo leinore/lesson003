@@ -1,0 +1,15 @@
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/lessons/lesson03/less_Methods/obj/Debug/net7.0/less_Methods.csproj.AssemblyReference.cache
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/lessons/lesson03/less_Methods/obj/Debug/net7.0/less_Methods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/lessons/lesson03/less_Methods/obj/Debug/net7.0/less_Methods.AssemblyInfoInputs.cache
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/lessons/lesson03/less_Methods/obj/Debug/net7.0/less_Methods.AssemblyInfo.cs
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/lessons/lesson03/less_Methods/obj/Debug/net7.0/less_Methods.csproj.CoreCompileInputs.cache
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/lessons/lesson03/less_Methods/bin/Debug/net7.0/less_Methods
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/lessons/lesson03/less_Methods/bin/Debug/net7.0/less_Methods.deps.json
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/lessons/lesson03/less_Methods/bin/Debug/net7.0/less_Methods.runtimeconfig.json
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/lessons/lesson03/less_Methods/bin/Debug/net7.0/less_Methods.dll
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/lessons/lesson03/less_Methods/bin/Debug/net7.0/less_Methods.pdb
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/lessons/lesson03/less_Methods/obj/Debug/net7.0/less_Methods.dll
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/lessons/lesson03/less_Methods/obj/Debug/net7.0/refint/less_Methods.dll
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/lessons/lesson03/less_Methods/obj/Debug/net7.0/less_Methods.pdb
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/lessons/lesson03/less_Methods/obj/Debug/net7.0/less_Methods.genruntimeconfig.cache
+/Users/zksystem/Anastasia/Studies/GeekBrains/C#/lessons/lesson03/less_Methods/obj/Debug/net7.0/ref/less_Methods.dll
